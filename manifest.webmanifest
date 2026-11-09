@@ -1,1 +1,19 @@
-{"name":"My Happy Day — Zayd's Chores","short_name":"Happy Day","start_url":"./","scope":"./","display":"standalone","background_color":"#faf8ff","theme_color":"#8365e8","icons":[{"src":"./assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+
+{
+  "name": "ChoresList Parent Portal",
+  "short_name": "ChoresList",
+  "description": "Parent dashboard for Zayd's chores and rewards",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f2ff",
+  "theme_color": "#8963e9",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
